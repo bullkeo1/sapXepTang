@@ -1,0 +1,5 @@
+/Users/bullkeo/RiderProjects/HaTapLam/Console/ThuatToan/bin/Debug/ThuatToan.exe
+/Users/bullkeo/RiderProjects/HaTapLam/Console/ThuatToan/bin/Debug/ThuatToan.pdb
+/Users/bullkeo/RiderProjects/HaTapLam/Console/ThuatToan/obj/Debug/ThuatToan.csprojAssemblyReference.cache
+/Users/bullkeo/RiderProjects/HaTapLam/Console/ThuatToan/obj/Debug/ThuatToan.exe
+/Users/bullkeo/RiderProjects/HaTapLam/Console/ThuatToan/obj/Debug/ThuatToan.pdb
